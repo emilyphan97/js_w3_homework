@@ -1,0 +1,31 @@
+body{
+    background-color:#18a085;
+}
+.box{
+    margin-left: 30%;
+    border: 1px solid black;
+    margin-right: 30%;
+    background-color: white;
+    text-align: center;
+}
+#author{
+    text-align: right; padding-right: 10%;
+    color: #18a085;
+}
+.new-quote{
+    text-align: right; padding-right: 10%;
+    color: #18a085;
+}
+#new-quote-box{
+    background-color: #18a085;
+    color: white
+}
+#quote{
+ color: #18a085;
+}
+
+.footer{
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
